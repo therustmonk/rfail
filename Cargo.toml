@@ -1,0 +1,7 @@
+[package]
+name = "rfail"
+version = "0.1.0"
+authors = ["Denis Kolodin <deniskolodin@gmail.com>"]
+
+[dependencies]
+log = "0.3.7"
